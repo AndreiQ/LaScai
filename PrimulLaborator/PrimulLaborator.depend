@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1457036810 source:c:\users\cristi\desktop\primullaborator\main.cpp
+	<windows.h>
+	<tchar.h>
+	<string>
+
